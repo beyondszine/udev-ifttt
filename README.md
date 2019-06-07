@@ -12,3 +12,8 @@ How it works:
 Ex:
 - If a tty is added, you need to get an alert, in case someone without letting you know gets the shell.
 - If a particular storage device is added/removed, run my rsync.
+
+
+
+Srcs:
+- https://github.com/cheery/node-udev
